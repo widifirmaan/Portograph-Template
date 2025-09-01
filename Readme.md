@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-https://photograph.dufl.web.id
+https://portograph.dufl.web.id
 
 <h2>Project Screenshots:</h2>
 
