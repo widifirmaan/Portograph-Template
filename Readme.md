@@ -49,7 +49,3 @@
 3.  **Deploy**
     *   Works perfectly on GitHub Pages, Vercel, or any static hosting.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). 
-*Free to use for personal and commercial projects.*
