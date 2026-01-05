@@ -8,10 +8,6 @@
   <strong>Exquisite Web Portfolio for Wedding Photographers & Videographers</strong>
 </p>
 
-<p align="center">
-  <a href="https://widifirmaan.github.io/Portograph-Template/"><strong>🔴 View Live Demo</strong></a>
-</p>
-
 <br>
 
 ## 📖 About
