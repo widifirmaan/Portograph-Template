@@ -1,48 +1,55 @@
-<h1 align="center" id="title">ArunaPicture-Web-Profile</h1>
+<h1 align="center" id="title">Portograph - Cinematic Wedding Portfolio</h1>
 
-<p id="description">Website Portfolio untuk Wedding Organizer dan Photograph ArunaPicture</p>
+<p align="center">
+  <img src="demo-screenshot.png" alt="Portograph Demo" width="100%" />
+</p>
 
-<h2>🚀 Demo</h2>
+<p align="center">
+  <strong>Exquisite Web Portfolio for Wedding Photographers & Videographers</strong>
+</p>
 
-https://portograph.dufl.web.id
+<p align="center">
+  <a href="https://widifirmaan.github.io/Portograph-Template/"><strong>🔴 View Live Demo</strong></a>
+</p>
 
-<h2>Project Screenshots:</h2>
+<br>
 
-<img src="https://raw.githubusercontent.com/widifirmaan/ArunaPicture/refs/heads/main/Screenshot%20(25).png" alt="project-screenshot" width="400" height="400/">
+## 📖 About
 
-<img src="https://raw.githubusercontent.com/widifirmaan/ArunaPicture/refs/heads/main/Screenshot%20(26).png" alt="project-screenshot" width="400" height="400/">
+**Portograph** is a premium, lightweight, and high-performance website template designed specifically for wedding cinematic services, photographers, and videographers. It features a modern, clean aesthetics with fluid animations to showcase your portfolio in the best light.
 
-  
-  
-<h2>🧐 Features</h2>
+## 🚀 Features
 
-Here're some of the project's best features:
+*   **⚡ Super Lightweight & Fast**: Optimized for speed and performance.
+*   **📱 Fully Responsive**: Looks stunning on desktops, tablets, and mobile devices.
+*   **✨ Fluid Animations**: Smooth visual effects for a premium user experience.
+*   **🖼️ Gallery & Portfolio**: Dedicated sections to showcase your best shots and videos.
+*   **📸 Instagram Integration**: Seamlessly connected portfolio section (via EmbedSocial or similar).
+*   **📦 Services & Pricing**: Clear layout for packages (e.g., Engagement, Wedding, Live Streaming).
+*   **💬 Instant WhatsApp Ordering**: "Book Now" buttons linked directly to WhatsApp for easier conversions.
+*   **🔍 SEO Friendly**: Built with semantic HTML for better search engine visibility.
+*   **📍 Contact & Location**: Integrated location details and contact information.
 
-*   Fluid Animation
-*   Hero Section
-*   Portfolio Connected to Instagram Section
-*   Package List Section
-*   Contact Infornation
-*   Instant Order to WhatsApp
-*   SEO Friendly
-*   Superlightweight Template
-*   Back to top
+## 💻 Tech Stack
 
-<h2>🛠️ Installation Steps:</h2>
+*   **HTML5** - Semantic structure.
+*   **CSS3** - Custom styling with modern effects.
+*   **JavaScript** - Interactive elements and fluid animations.
+*   **No Heavy Frameworks** - Pure vanilla code for maximum performance.
 
-<p>1. Just Clone It</p>
+## 🛠️ Usage
 
-  
-  
-<h2>💻 Built with</h2>
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/widifirmaan/Portograph-Template.git
+    ```
+2.  **Customize Content**
+    *   Edit `index.html` to update text, links, and prices.
+    *   Replace images in the `img/` folder with your own assets.
+3.  **Deploy**
+    *   Works perfectly on GitHub Pages, Vercel, or any static hosting.
 
-Technologies used in the project:
+## 📄 License
 
-*   HTML5
-*   CSS
-*   JavaScript
-*   EmbedSocial
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the PORTOGRAPH
+This project is licensed under the [MIT License](LICENSE). 
+*Free to use for personal and commercial projects.*
